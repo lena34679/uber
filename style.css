@@ -100,7 +100,7 @@
   }
   
   .address__button:hover{  /*состояние ссылки при наведённом на неё курсоре мыши*/
-  background-color: #fbfbfb;  /*цвет фона*/
+  background-color: #59BD5A;  /*цвет фона*/
   }
   
   .b-black {
@@ -109,11 +109,11 @@
   }
   
   .b-black:hover {  /*состояние ссылки при наведённом на неё курсоре мыши*/
-    background-color: #fbfbfb;  /*цвет фона*/
+    background-color: #59BD5A;  /*цвет фона*/
   }
   
   .b-withe:hover {  /*состояние ссылки при наведённом на неё курсоре мыши*/
-    background-color: #fbfbfb;  /*цвет фона*/
+    background-color: #59BD5A;  /*цвет фона*/
   }
   
   .basket {
